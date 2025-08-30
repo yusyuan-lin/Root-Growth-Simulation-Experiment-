@@ -23,5 +23,6 @@ We studied how **fiber length, packing density, and grain composition** affect t
 - Team-based research and presentation  
 
 ## Files
-- `report.pdf` – Final presentation/report of the project  
+- `Final_Report.pdf` – Final presentation/report of the project  
 - `analysis/` – Example data & code snippets
+- `Ref_paper.pdf` – Reference Paper of the project
