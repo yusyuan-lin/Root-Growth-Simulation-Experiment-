@@ -24,5 +24,5 @@ We studied how **fiber length, packing density, and grain composition** affect t
 
 ## Files
 - `Final_Report.pdf` – Final presentation/report of the project  
-- `analysis/` – Example data & code snippets
+- `analysis_codes/` – Example data and code for analysis and fitting
 - `Ref_paper.pdf` – Reference Paper of the project
